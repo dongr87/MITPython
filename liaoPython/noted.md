@@ -33,3 +33,7 @@ Encapsulation
  + Python is dynamic language, you can bind attributes to instance based on class anytime.
  + Instance attr will override the Class attr until it's deleted
 - 3.2-\_\_slots\_\_ method
+- 3.3-@property
+- multiple inheritance  **MixIn**
+- 3.4-custom class
+
