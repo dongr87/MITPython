@@ -11,6 +11,6 @@ Github Clone - [Link](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Pr
 [Github cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
 
 #####  AutomateTheBoringStuffWithPython chapter6
-pw.py - Copy password
+pw.py - Copy password  
 bulletPointAdder.py - add bullet mark to text from clipboard
 
