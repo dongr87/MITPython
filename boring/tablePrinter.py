@@ -15,7 +15,7 @@ def tablePrinter(tableData):
     for row in range(len(tableData[0])):
         for col in range(len(tableData)):
             print(tableData[col][row].rjust(colWidth[col]), end = ' ')
-        print('\n')
+        print()
 
 
 
