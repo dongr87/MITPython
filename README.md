@@ -23,6 +23,15 @@ bulletPointAdder.py - add bullet mark to text from clipboard
 Continuation of Python in Boring Stuff.
 #### Chapter 6
 tablePrinter.py - practice project  
+
+### Day3 - 04/29
+*about 1 hour*
 #### Chapter 7
+regex basics
+
+### Day4 0 04/30
+*about 1 hour*
+
+
 
 

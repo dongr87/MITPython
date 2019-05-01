@@ -34,6 +34,7 @@ import re
 # re.compile()
 # regexObj.search()
 # re.group() to store the found string patterns
+# * matching zero or more
 
 phoneNumRegex = re.compile(r'\d\d\d-\d\d\d-\d\d\d\d')
 mo = phoneNumRegex.search(message)
