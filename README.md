@@ -29,8 +29,17 @@ tablePrinter.py - practice project
 #### Chapter 7
 regex basics
 
-### Day4 0 04/30
+### Day4 - 04/30
 *about 1 hour*
+more about regex functions
+
+### Day5 - 05/01
+*about 1 hour*
+
+
+### Day6 - 05/02
+*about 1 hour*
+
 
 
 

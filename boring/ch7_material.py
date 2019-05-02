@@ -34,10 +34,25 @@ import re
 # re.compile()
 # regexObj.search()
 # re.group() to store the found string patterns
-# * matching zero or more
+# reObj.findall()
+
+
+
 
 phoneNumRegex = re.compile(r'\d\d\d-\d\d\d-\d\d\d\d')
 mo = phoneNumRegex.search(message)
 print(mo.group())
-# pipe for multiple matches
-# question mark for optional matching
+# | pipe for multiple matches
+# ? question mark for optional matching
+# * matching zero or more
+# + matching one or more
+# {} matching specific Repetitions with curly braces
+# greedy and non-greedy matching - {3,5}?
+# Character Classes \w\W\d\D\s\S
+# make your own Character Classes with []
+# Carat Character to make cust classes negative (anti-) ^
+# ^ $ carat sign and dollar sign - beginning/end of the searched text
+# . dot sign is wildcard (excluding newline)
+# re.compile('.*', re.DOTALL) - including newline
+
+
