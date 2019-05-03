@@ -34,17 +34,17 @@ regex basics
 more about regex functions
 
 ### Day5 - 05/01
-*about 1 hour*
-
+*about 1 hour*  
+Regex Pattern Tester - Check this [**LINK**](https://regexr.com/)
 
 ### Day6 - 05/02
 *about 1 hour*
 Project: Phone Number and Email Address Extractor  
-Referring this [link](https://emailregex.com/)
+(Referring this [**LINK**](https://emailregex.com/))
 
 ### Day7 - 05/03
-*Goal: Finish Regex Projects*
-
+*Goal: Finish Regex Projects || One week check*  
+**ch7_pwValidator** is comleted
 
 
 
