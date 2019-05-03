@@ -39,6 +39,11 @@ more about regex functions
 
 ### Day6 - 05/02
 *about 1 hour*
+Project: Phone Number and Email Address Extractor  
+Referring this [link](https://emailregex.com/)
+
+### Day7 - 05/03
+*Goal: Finish Regex Projects*
 
 
 

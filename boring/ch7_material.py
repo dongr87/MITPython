@@ -55,4 +55,8 @@ print(mo.group())
 # . dot sign is wildcard (excluding newline)
 # re.compile('.*', re.DOTALL) - including newline
 
+# re.compile(r'abc', re.I) or re.compile(r'abc', re.IGNORECASE) - will be case insensitive
+# Substituting strings with the sub() method
+# re.compile(r'''('multiple line with comments')''', re.VERBOSE)
+
 
