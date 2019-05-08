@@ -46,7 +46,8 @@ Project: Phone Number and Email Address Extractor
 *Goal: Finish Regex Projects || One week check*  
 **ch7_pwValidator** is comleted
 
-### Day8 - 05/05
+### Day8 - 05/07
+
 
 
 
