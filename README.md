@@ -47,7 +47,9 @@ Project: Phone Number and Email Address Extractor
 **ch7_pwValidator** is comleted
 
 ### Day8 - 05/07
-
-
+*Finished ch7_strip.py for strip method with regular expression*
+ 
+### Day9 - 05/08
+*Reading Chapter 8, File management with Python*
 
 
