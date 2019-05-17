@@ -52,4 +52,5 @@ Project: Phone Number and Email Address Extractor
 ### Day9 - 05/08
 *Reading Chapter 8, File management with Python*
 
-
+## Day10 - 05/16
+*Reading Chapter 8 and finish practical project ch8*
